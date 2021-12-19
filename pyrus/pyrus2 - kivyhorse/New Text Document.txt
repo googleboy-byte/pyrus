@@ -1,0 +1,5 @@
+kivyhorse contains a backdoor embedded in a kivy hello world program
+works on lan using direct ip connection
+could use on wan by routing the signals through openvpn
+just simple command line access but no directory change.....although directory listing and access of any directory is possible 
+by 'dir' commands followed by the relative or superlative address of the directory. any files can be accessed in a similar manner.
